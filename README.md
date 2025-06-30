@@ -14,4 +14,4 @@ Java and Spring Boot enthusiast, systems builder, and problem solver who enjoys 
 
 ### Let's connect
 - 💼 Linkedin - https://www.linkedin.com/in/cosmasgikunju/
-- 🐦 X- https://x.com/itscosmas
+- 🐦 X - https://x.com/itscosmas
