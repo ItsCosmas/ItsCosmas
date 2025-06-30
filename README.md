@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Java and Spring Boot enthusiast, systems builder, and problem solver who enjoys turning complexity into clarity.
+Java ☕️ and Spring Boot 🍃 enthusiast, systems builder, and problem solver who enjoys turning complexity into clarity.
 
 - I love building fast and resilient systems, along with great user experiences.
 - Curious to solve problems that often go unnoticed but make all the difference.
