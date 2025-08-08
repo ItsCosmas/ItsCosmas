@@ -8,7 +8,7 @@ Java ☕️ and Spring Boot 🍃 enthusiast, systems builder, and problem solver
 <!--
 **ItsCosmas/ItsCosmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### ✍️ Sometimes I share
+### ✍️ Sometimes I write
 - 📖 Dev: [@itscosmas](https://dev.to/itscosmas)
 - 📖 Medium: [@itscosmas](https://medium.com/@itscosmas)
 
